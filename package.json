@@ -1,5 +1,5 @@
 {
-  "name": "koa-joi-rest",
+  "name": "koa-async-healthcheck",
   "version": "0.0.1",
   "description": "Koa async healthcheck module",
   "main": "index.js",
