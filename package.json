@@ -1,0 +1,15 @@
+{
+  "name": "koa-joi-rest",
+  "version": "0.0.1",
+  "description": "Koa async healthcheck module",
+  "main": "index.js",
+  "repository": "https://github.com/tickone/koa-async-healthcheck.git",
+  "author": "Michael.K <michael34435@capslock.tw>",
+  "license": "MIT",
+	"devDependencies": {
+		"eslint": "^8.9.0",
+		"eslint-config-airbnb": "^19.0.4",
+		"eslint-plugin-import": "^2.25.4",
+		"eslint-import-resolver-node": "^0.3.6"
+	}
+}
